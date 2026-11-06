@@ -38,10 +38,8 @@ h1 {
 
 
 /* Botão central. */
-#alternar {
-    box-shadow: 0 0 15px 5px rgb(247, 246, 244, 0,8
-    
-    );
+#alternar{
+    box-shadow: 0 0 15px 5px rgba(255, 255, 255, 0.8);
   position: absolute;
   left: 127px;
   top: 127px;
